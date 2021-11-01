@@ -2,6 +2,6 @@ Some code in welcome page.
 
 
 
-Anjali added a new line
+Anjali added a new line.
 
 Shub added a new line.
