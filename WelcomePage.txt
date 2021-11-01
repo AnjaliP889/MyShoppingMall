@@ -5,10 +5,8 @@ Some code in welcome page.
 Kunal added a new line.
 
 Shubham added a new line.
-<<<<<<< HEAD
-Anjali Added a new line here.
-=======
 
+Anjali Added a new line here.
 
 shubham adding a new line here.
->>>>>>> 20efe5a83801b52009f8785aff38fc753525a494
+
